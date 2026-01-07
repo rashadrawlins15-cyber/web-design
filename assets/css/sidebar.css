@@ -1,0 +1,69 @@
+/* SIDEBAR TITLES */
+.sidebar-title{
+    text-transform: uppercase;
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+
+/* CSS FOR IMAGE ABOUT YOU */
+.sidebar-my-image {
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+}
+
+.sidebar-my-name{
+    text-align: center;
+    font-size: 15;
+}
+
+/* CTS CSS */
+.sidebar-cts-logo{
+    width: 100%;
+}
+
+.sidebar-cts-text {
+    color: lightcoral;
+    font-size: 20px;
+}
+
+.cts-list {
+    background-color: lightseagreen;
+    padding: 15px;
+}
+
+
+.sidebar-cts-block{
+    text-align: center;
+    padding: 10px;
+    background-color: purple;
+}
+
+.sidebar-links{
+    background-color: green; 
+    color: grey;
+    text-decoration: none;
+}
+
+
+/* POSITION SOCIAL MEDIA ICONS */
+.sidebar-social-media{
+    padding: 5px;
+    text-align: center;
+    background-color: ;
+
+}
+
+/* SOCIAL MEDIA ICONS */
+.sidebar-social-icon{
+    display: inline-block;
+    color: black;
+    padding: 10px;
+    margin: 10px;
+    color: blue;
+
+}
+
